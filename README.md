@@ -1,4 +1,4 @@
-# Ohjelmistotekniikka
+# Ohjelmistotekniikka 2023
 
 Tämä on Helsingin yliopiston _ohjelmistotekniikka_-kurssin **harjoitustyö**.
 

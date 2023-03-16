@@ -1,0 +1,113 @@
+commit 7dd0b8590da12a05e5c225128ea8ff8eb26c7c03
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 22:12:59 2023 +0200
+
+    tiedosto poistettu ja nimi muutettu
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 66aa57623e4da6513bbba3b1fc5b43763ef6a7a5
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:54:26 2023 +0200
+
+    tiedostoja luotu
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 99b8b16ab6ffa1070d9686ca4c5140240261985d
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:43:08 2023 +0200
+
+    muutoksia
+
+ eka.txt    | 2 +-
+ kolmas.txt | 3 ++-
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+commit f20f2023b65162990f87172df299fe6ba7be06b9
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:40:54 2023 +0200
+
+    tiedoston nimi muutettu
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 255370e6e00d4ff68102d2e41871f23bff6c73e5
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:37:44 2023 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 6a0bc7ff782609b6574854d90f5fa3a4c87f0be5
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:33:16 2023 +0200
+
+    lisää muutoksia
+
+ tiedosto.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit cb8ecd71e0cdc4dcbc271babee8f36a5f117ba59
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:31:48 2023 +0200
+
+    muutoksia tiedosto.txt:hen
+
+ tiedosto.txt | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit 50d6cd0da7e5a30e4daeff280b4b6e2fc9d25669
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:26:49 2023 +0200
+
+    uusi kansio ja tiedosto luotu
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 59f55132f6c07a6b2b3d68f5774db4481139b58f
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:25:01 2023 +0200
+
+    muutoksia tiedostoihin
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 937eee4ffdeb5d77d7e86f9009510bfff17610e9
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 21:23:34 2023 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4c6d44ebeb0a04c9ebe55a84dcdfa524c85c328a
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 20:13:44 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 316297369f906a8aa54f4322f110c946f325168e
+Author: erikao1998 <ersku1998@gmail.com>
+Date:   Wed Mar 15 20:07:49 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
